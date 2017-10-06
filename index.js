@@ -28,4 +28,5 @@ function iLoveTheBeattles(){
     i+=1
   }
   while ((i < 15) && (i < number))
+  return array
 }
