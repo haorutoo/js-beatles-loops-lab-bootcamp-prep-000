@@ -1,5 +1,5 @@
 function theBeatlesPlay(musicians,instruments){
-  var array = []//{ musicians, instruments}
+  var array = {}//{ musicians, instruments}
   //var newObj = Object.assign({}, obj)
   var newObj //= Object.assign({})
 
