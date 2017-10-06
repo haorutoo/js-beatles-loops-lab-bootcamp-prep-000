@@ -27,5 +27,5 @@ function iLoveTheBeattles(number){
     array.push('I Love the Beatles!')
     i++
   }
-  while ((i < 15) && (i < number))
+  while {((i < 15) && (i < number))}
 }
