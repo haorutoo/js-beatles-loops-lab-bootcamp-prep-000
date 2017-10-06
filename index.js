@@ -5,7 +5,7 @@ function theBeatlesPlay(musicians,instruments){
     //newObj = Object.assign({}, '${musicians[i]} plays ${instruments[i]}')
     var musician = musicians.i
     var instrument = instruments.i
-    array.push('${musician} plays ${instrument}')
+    array.push('${musicians.i} plays ${instruments.i}')
   }
 
   return array
