@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
   return array
 }
 
-function iLoveTheBeattles(n){
+function iLoveTheBeatles(n){
   var array = []
   var i = 1
   do {
